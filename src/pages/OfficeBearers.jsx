@@ -1,5 +1,5 @@
 import React from "react";
-import officeImg from "../assets/office_Bearers.png"; 
+import officeImg from "../assets/OfficeBearers.png"; 
 import "../assets/styles/OfficeBearers.css"
 
 const OfficeBearers = () => {
